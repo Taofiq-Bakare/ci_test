@@ -1,5 +1,5 @@
 
-![example event parameter](.github/workflows/blank.yml/badge.svg?event=push)
+[![CI test.](https://github.com/Taofiq-Bakare/ci_test/actions/workflows/blank.yml/badge.svg)](https://github.com/Taofiq-Bakare/ci_test/actions/workflows/blank.yml)
 
 
 # ci_test
